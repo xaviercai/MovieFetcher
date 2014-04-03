@@ -1,0 +1,7 @@
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\bin\Debug\MovieFetcher.exe
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\bin\Debug\MovieFetcher.pdb
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.Form1.resources
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.Properties.Resources.resources
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.csproj.GenerateResource.Cache
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.exe
+C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.pdb
