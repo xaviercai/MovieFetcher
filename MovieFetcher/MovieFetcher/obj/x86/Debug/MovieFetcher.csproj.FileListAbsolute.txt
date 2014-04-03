@@ -5,3 +5,11 @@ C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\
 C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.csproj.GenerateResource.Cache
 C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.exe
 C:\Users\xavier\Documents\Visual Studio 2010\Projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.pdb
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.exe
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.pdb
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\bin\Debug\MovieFetcher.exe
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\bin\Debug\MovieFetcher.pdb
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.Form1.resources
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.Properties.Resources.resources
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.csproj.GenerateResource.Cache
+D:\projects\MovieFetcher\MovieFetcher\MovieFetcher\obj\x86\Debug\MovieFetcher.csprojResolveAssemblyReference.cache
